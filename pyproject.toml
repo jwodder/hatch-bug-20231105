@@ -6,7 +6,7 @@ build-backend = "hatchling.build"
 name = "mypackage"
 dynamic = ["version"]
 description = "MVCE for a bug in Hatch when force-including an existing file in a wheel"
-#readme = "README.md"
+readme = "README.md"
 requires-python = ">=3.8"
 license = "MIT"
 license-files = { paths = ["LICENSE"] }
